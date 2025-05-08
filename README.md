@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dkorobtsov&count_private=true&layout=normal&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkorobtsov&layout=compact&show_icons=true&theme=dark"/> 
+<img align="left" src="http://github-readme-stats-three-tau-91.vercel.app/api?username=dkorobtsov&count_private=true&layout=normal&show_icons=true&theme=transparent"/>
+<img src="http://github-readme-stats-three-tau-91.vercel.app/api/top-langs/?username=dkorobtsov&layout=normal&show_icons=true&theme=transparent"/> 
 <!--
 **dkorobtsov/dkorobtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
