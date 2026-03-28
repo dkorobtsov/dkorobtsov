@@ -1,6 +1,8 @@
 ### Dmitri Korobtsov
 
-Based in Tallinn, Estonia. Quality and Platform Engineering background. Ex Head of Quality Engineering @ [Veriff](https://veriff.com) 🦄. Ex Symantec, Ex Perforce, Ex Zeroturnaround. Tech founder now.
+Based in Tallinn, Estonia. Quality and Platform Engineering background. Ex Head of Quality Engineering @ [Veriff](https://veriff.com) 🦄. 
+
+Ex Symantec, Ex Perforce, Ex Zeroturnaround. Tech founder now.
 
 Good at building both teams and products — from 0 to 1 and from 1 to 100. Generalist on steroids.
 
